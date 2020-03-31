@@ -1,0 +1,56 @@
+#conteneur
+{
+	display: flex;
+	justify-content: flex-end;
+	align-items: baseline;
+	
+
+}
+.element
+{
+	height: 30px;
+	width:75px;
+	margin: 30px 15px 15px 0px;
+	color: black;
+}
+
+
+.logo
+{
+	padding: 100px 500px 30px 470px;
+}
+
+.barre
+{
+	padding: 0px 600px 15px 530px;
+}
+
+.bouton
+{
+	display: flex;
+	justify-content: center;
+	align-items: baseline;
+	padding-right: 40px
+}
+.prévention
+{
+	display:flex;
+	justify-content: center;
+	margin-top: 30px;
+}
+.pays
+{
+	margin-top: 200px;
+	margin-left: 27px
+}
+#lien
+{
+	display:flex;
+	justify-content:auto;
+	margin-left: 27px;
+	margin-top:30px;
+}
+.sujet
+{
+	margin-right: 40px
+}
